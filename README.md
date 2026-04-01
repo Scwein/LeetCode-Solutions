@@ -1,2 +1,15 @@
-# LeetCode-Solutions
-My LeetCode solutions in PHP.
+# LeetCode Solutions
+
+Мои решения задач с LeetCode на PHP.
+
+## Структура
+- `easy/` — лёгкие задачи
+- `medium/` — средней сложности
+- `hard/` — сложные
+
+## Статистика
+| Сложность | Решено |
+|-----------|--------|
+| Easy | 15 |
+| Medium | 8 |
+| Hard | 2 |
