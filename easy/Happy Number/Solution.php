@@ -20,7 +20,7 @@ class Solution {
             if ($sum == 1) {
                 return true;
             }
-            if (isset($seen[$sum])) {
+            if ($seen[$sum]) {
                 return false;
             }
             
